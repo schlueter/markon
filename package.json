@@ -1,0 +1,17 @@
+{
+  "name": "live_markdown",
+  "version": "1.0.0",
+  "description": "A markdown editor which displays rendered markdown as you type it or select it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B Schlueter",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "broccoli": "^0.13.3",
+    "karma": "^0.12.27"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "live_markdown",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Schlueter <bs@bschlueter.com>"
+  ],
+  "description": "Edit markdown as you see it",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "markdown",
+    "input",
+    "comments",
+    "post"
+  ],
+  "license": "ISC",
+  "homepage": "schlueter.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+  ]
+}
